@@ -18,6 +18,11 @@ body{
 	padding:15px;
 }
 
+#menu {
+	width:90%;
+	margin:10px auto;
+
+}
 
 h1 {
 	font-size: 2.5em;
@@ -69,7 +74,7 @@ h1 {
 		margin:10px;
 	}
 	.box-sushi{
-		width: 91%;
+		width: 93%;
 	}
 
 }
